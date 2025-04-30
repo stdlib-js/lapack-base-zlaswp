@@ -393,7 +393,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [lapack-zlaswp]: https://www.netlib.org/lapack/explore-html/d1/d7e/group__laswp_ga6c7f83bff7887543bcb6c019e06e131d.html
 
-[@stdlib/array/complex128]: https://github.com/stdlib-js/stdlib/blob/develop/lib/node_modules/%40stdlib/array/complex128
+[@stdlib/array/complex128]: https://github.com/stdlib-js/array-complex128
 
 [@stdlib/array/int32]: https://github.com/stdlib-js/array-int32
 
