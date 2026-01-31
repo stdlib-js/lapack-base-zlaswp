@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import zlaswp from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlaswp@esm/index.mjs';
+import zlaswp from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlaswp@v0.1.0-esm/index.mjs';
 ```
 
 #### zlaswp( N, A, LDA, k1, k2, IPIV, incx )
@@ -202,7 +202,7 @@ zlaswp.ndarray( 2, A, 2, 1, 2, 0, 2, 1, IPIV, 1, 2 );
 import Complex128Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex128@esm/index.mjs';
 import Int32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-int32@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@esm/index.mjs';
-import zlaswp from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlaswp@esm/index.mjs';
+import zlaswp from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlaswp@v0.1.0-esm/index.mjs';
 
 // Specify matrix meta data:
 var shape = [ 4, 2 ];
