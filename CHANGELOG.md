@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-11)
+## Unreleased (2026-09-15)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#14920](https://github.com/stdlib-js/stdlib/issues/14920)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`1e05f05`](https://github.com/stdlib-js/stdlib/commit/1e05f05fc4151d680febc6ae20bd8cdc73d85568) - **chore:** fix JavaScript lint errors [(#14999)](https://github.com/stdlib-js/stdlib/pull/14999) _(by Kanika Sharma)_
 -   [`199bb30`](https://github.com/stdlib-js/stdlib/commit/199bb30fd65e5ae83acd090f856fd0401edb8acb) - **docs:** update descriptions [(#13481)](https://github.com/stdlib-js/stdlib/pull/13481) _(by Philipp Burckhardt)_
 -   [`87878e7`](https://github.com/stdlib-js/stdlib/commit/87878e70356befd4c09e8ae67b5b73026c5648b5) - **bench:** refactor to use string interpolation in `lapack/base/zlaswp` [(#10130)](https://github.com/stdlib-js/stdlib/pull/10130) _(by Prajjwal Bajpai, Athan Reines)_
 
@@ -25,9 +38,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Kanika Sharma
 -   Philipp Burckhardt
 -   Prajjwal Bajpai
 
